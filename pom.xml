@@ -12,6 +12,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>api-gateway</module>
         <module>auth-service</module>
         <module>task-service</module>
     </modules>
