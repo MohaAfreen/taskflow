@@ -1,1 +1,9 @@
-
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/MohaAfreen/api-gateway.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/MohaAfreen/auth-service.git
+[submodule "task-service"]
+	path = task-service
+	url = https://github.com/MohaAfreen/task-service.git
